@@ -1,28 +1,92 @@
-<h1 align="center">Hi 👋, I'm Emin Hadžiabdić</h1>
+<h1 align="center">Hi, I'm Emin Hadžiabdić👋</h1>
+
+###
+
 <h3 align="center">A passionate Data Scientist and AI developer from Bosnia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehadziabdic&label=Profile%20views&color=0e75b6&style=flat" alt="ehadziabdic" /> </p>
+###
 
-- 🔭 I’m currently working on **Academic projects within my faculty**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ehadziabdic.ehadziabdic&"  />
+</div>
 
-- 🌱 I’m currently studying at **Faculty of Electrical Engineering Sarajevo, Data Science and Artificial Intelligence**
+###
 
-- 👨‍💻 All of my projects are available at [https://ehadziabdic-portfolio.vercel.app/](https://ehadziabdic-portfolio.vercel.app/)
+<h3 align="left">👩‍💻  About Me</h3>
 
-- 📫 How to reach me **emin.hadziabdic05@gmail.com**
+###
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nnPYTDd8VtQXBgyA56EwbxpuIPw6ST2u](https://drive.google.com/file/d/1nnPYTDd8VtQXBgyA56EwbxpuIPw6ST2u)
+<p align="left">- 🔭 I’m currently working on <b>Academic projects</b> within my faculty</p>
+<p align="left">- 🌱 I’m currently studying at <b>Faculty of Electrical Engineering Sarajevo, Data Science and Artificial Intelligence</b></p>
+<p align="left">- 👨‍💻 All of my projects are available at https://ehadziabdic-portfolio.vercel.app/</p>
+<p align="left">- 📄 Know about my experiences https://drive.google.com/file/d/1nnPYTDd8VtQXBgyA56EwbxpuIPw6ST2u</p>
+<p align="left">- 📫 How to reach me <b>emin.hadziabdic05@gmail.com</b></p>
+<p align="left">- ⚡ Fun fact <b>I don't like socializing, just like most developers.</b>😔</p>
 
-- ⚡ Fun fact **I don't like socializing, just like most developers.😔**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eminhadziabdic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eminhadziabdic" height="30" width="40" /></a>
-<a href="https://kaggle.com/eminhadziabdic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eminhadziabdic" height="30" width="40" /></a>
-<a href="https://instagram.com/_emin.ha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_emin.ha_" height="30" width="40" /></a>
-<a href="https://discord.gg/YgNvDmP84N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YgNvDmP84N" height="30" width="40" /></a>
-</p>
+<h3 align="left">🛠 Language and tools</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">🔗 Connect with me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/eminhadziabdic/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://paypal.me/eminhadziabdic" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="37" height="25" alt="paypal logo"  />
+  </a>
+  <a href="https://www.instagram.com/_emin.ha_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/YgNvDmP84N" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  </a>
+  <a href="mailto:emin.hadziabdic05@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ehadziabdic&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
