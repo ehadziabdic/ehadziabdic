@@ -18,8 +18,8 @@
 
 <p align="left">- 🔭 I’m currently working on <b>Academic projects</b> within my faculty</p>
 <p align="left">- 🌱 I’m currently studying at <b>Faculty of Electrical Engineering Sarajevo, Data Science and Artificial Intelligence</b></p>
-<p align="left">- 👨‍💻 All of my projects are available at https://ehadziabdic-portfolio.vercel.app/</p>
-<p align="left">- 📄 Know about my experiences https://drive.google.com/file/d/1nnPYTDd8VtQXBgyA56EwbxpuIPw6ST2u</p>
+<p align="left">- 👨‍💻 All of my projects are available in <a href="https://ehadziabdic-portfolio.vercel.app/" target="_blank">Portfolio</a></p>
+<p align="left">- 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1nnPYTDd8VtQXBgyA56EwbxpuIPw6ST2u" target="_blank">CV</a></p>
 <p align="left">- 📫 How to reach me <b>emin.hadziabdic05@gmail.com</b></p>
 <p align="left">- ⚡ Fun fact <b>I don't like socializing, just like most developers.</b>😔</p>
 
