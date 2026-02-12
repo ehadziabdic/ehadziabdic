@@ -1,82 +1,67 @@
-<h1 align="center">Hi, I'm Emin Hadžiabdić👋</h1>
+<h1 align="center">Hi, I'm Emin Hadžiabdić 👋</h1>
 
-###
-
-<h3 align="center">A passionate Data Scientist and AI developer from Bosnia</h3>
-
-###
+<h3 align="center">AI/ML Intern · Data Science & AI student (Sarajevo, Bosnia and Herzegovina)</h3>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ehadziabdic.ehadziabdic&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ehadziabdic.ehadziabdic&" />
 </div>
 
-###
+<h3 align="left">👩‍💻 About Me</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">- 🎓 Data Science & Artificial Intelligence student at <b>Faculty of Electrical Engineering (ETF), University of Sarajevo</b></p>
+<p align="left">- 🧠 Interested in <b>AI/ML</b> and building practical, end-to-end projects</p>
+<p align="left">- 👨‍💻 Portfolio: <a href="https://ehadziabdic-portfolio.vercel.app/" target="_blank">https://ehadziabdic-portfolio.vercel.app/</a></p>
+<p align="left">- 📫 Reach me: <b>emin.hadziabdic05@gmail.com</b></p>
+<p align="left">- ⚡ Fun fact: I don't like <b>socializing</b>, just like most <b>developers</b>.😔</b></p>
 
-###
+<h3 align="left">🚀 Featured projects</h3>
 
-<p align="left">- 🔭 I’m currently working on <b>Academic projects</b> within my faculty</p>
-<p align="left">- 🌱 I’m currently studying at <b>Faculty of Electrical Engineering Sarajevo, Data Science and Artificial Intelligence</b></p>
-<p align="left">- 👨‍💻 All of my projects are available in <a href="https://ehadziabdic-portfolio.vercel.app/" target="_blank">Portfolio</a></p>
-<p align="left">- 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1nnPYTDd8VtQXBgyA56EwbxpuIPw6ST2u" target="_blank">CV</a></p>
-<p align="left">- 📫 How to reach me <b>emin.hadziabdic05@gmail.com</b></p>
-<p align="left">- ⚡ Fun fact <b>I don't like socializing, just like most developers.</b>😔</p>
+<p align="left">
+  • <a href="https://github.com/ehadziabdic/RedziSens" target="_blank"><b>RedziSens</b></a> - wearable stress monitoring (CNN+GRU, Wear OS, Firebase, React)<br/>
+  • <a href="https://github.com/ehadziabdic/NetflixRecommendation" target="_blank"><b>NetflixRecommendation</b></a> - graph-based movie recommender (bipartite graph)<br/>
+  • <a href="https://github.com/ehadziabdic/GameOfTheAmazons" target="_blank"><b>Game of the Amazons</b></a> - GUI + Minimax (alpha-beta pruning) in C++<br/>
+  • <a href="https://github.com/ehadziabdic/AutoDrive" target="_blank"><b>AutoDrive</b></a> - YOLO vehicle/pedestrian detection
+</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠 Languages and tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
 </div>
-
-###
 
 <h3 align="left">🔗 Connect with me</h3>
 
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/eminhadziabdic/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://paypal.me/eminhadziabdic" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="37" height="25" alt="paypal logo"  />
-  </a>
-  <a href="https://www.instagram.com/_emin.ha_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/YgNvDmP84N" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin" />
   </a>
   <a href="mailto:emin.hadziabdic05@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail" />
   </a>
 </div>
-
-###
