@@ -14,15 +14,6 @@
 <p align="left">- 📫 Reach me: <b>emin.hadziabdic05@gmail.com</b></p>
 <p align="left">- ⚡ Fun fact: I don't like <b>socializing</b>, just like most <b>developers</b>.😔</b></p>
 
-<h3 align="left">🚀 Featured projects</h3>
-
-<p align="left">
-  • <a href="https://github.com/ehadziabdic/RedziSens" target="_blank"><b>RedziSens</b></a> - wearable stress monitoring (CNN+GRU, Wear OS, Firebase, React)<br/>
-  • <a href="https://github.com/ehadziabdic/NetflixRecommendation" target="_blank"><b>NetflixRecommendation</b></a> - graph-based movie recommender (bipartite graph)<br/>
-  • <a href="https://github.com/ehadziabdic/GameOfTheAmazons" target="_blank"><b>Game of the Amazons</b></a> - GUI + Minimax (alpha-beta pruning) in C++<br/>
-  • <a href="https://github.com/ehadziabdic/AutoDrive" target="_blank"><b>AutoDrive</b></a> - YOLO vehicle/pedestrian detection
-</p>
-
 <h3 align="left">🛠 Languages and tools</h3>
 
 <div align="left">
