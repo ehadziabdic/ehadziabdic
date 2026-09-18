@@ -10,7 +10,7 @@
 
 <p align="left">- 🎓 Data Science & Artificial Intelligence student at <b>Faculty of Electrical Engineering (ETF), University of Sarajevo</b></p>
 <p align="left">- 🧠 Interested in <b>AI/ML</b> and building practical, end-to-end projects</p>
-<p align="left">- 👨‍💻 Portfolio: <a href="https://ehadziabdic-portfolio.vercel.app/" target="_blank">https://ehadziabdic-portfolio.vercel.app/</a></p>
+<p align="left">- 👨‍💻 Portfolio: <a href="https://ehadziabdic.runs-on.dev" target="_blank">https://ehadziabdic.runs-on.dev</a></p>
 <p align="left">- 📫 Reach me: <b>emin.hadziabdic05@gmail.com</b></p>
 <p align="left">- ⚡ Fun fact: I don't like <b>socializing</b>, just like most <b>developers</b>.😔</b></p>
 
