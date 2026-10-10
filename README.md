@@ -5,10 +5,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F72F&center=true&vCenter=true&width=520&lines=Data+Science+%26+AI+Student;Building+ML+systems+end-to-end;Open+to+internships+EU-remote;From+data+to+runnable+demo" alt="Typing SVG" /></a>
 </p>
 
-🔭 Focus: taking ML projects from data to demo, keeping evaluation honest and docs runnable
-🌱 Currently: adding documented projects to my portfolio and maintaining our course site
-💬 Ask me about: turning messy data into something others can run and understand
-📫 Portfolio, LinkedIn, Email and CV below
+- 🔭 **Focus:** taking ML projects from data to demo, keeping evaluation honest and docs runnable
+- 🌱 **Currently:** working on new projects and maintaining our course site
+- 💬 **Ask me about:** turning messy data into something others can run and understand
+
+- 📫 Portfolio, LinkedIn, Email and CV below
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ehadziabdic.runs--on.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ehadziabdic.runs-on.dev)
 [![CV](https://img.shields.io/badge/CV-Download_PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1-FbT-qh1elRXo1P_i0IWIAvYlvpldBH6/view?usp=sharing)
@@ -58,20 +59,6 @@ Full list lives here. Prose above stays tool-light on purpose.
 
 ---
 
-## Featured Projects
-
-What each one does and what I owned. Stack is short here, full detail in each repo.
-
-| Project | What it does | My part | Links |
-|---|---|---|---|
-| **StreamSync** | Self-hosted server with remote access plus watchlist-to-calendar sync | End-to-end build, automation and docs | [Code](https://github.com/ehadziabdic/StreamSync) |
-| **WAgents** | Home PC AI crew over chat and voice for coding, research and files | End-to-end build and iteration | [Code](https://github.com/ehadziabdic/WAgents) |
-| **RobotTrajectoryOpt** | Real-time 2D trajectory prototype with solver-based approach | Modeling, implementation and testing | [Code](https://github.com/ehadziabdic/RobotTrajectoryOpt) |
-
-> Older explorations stay in my repositories. Latest selection is always on the portfolio: https://ehadziabdic.runs-on.dev
-
----
-
 ## Stats
 
 <p align="center">
@@ -85,7 +72,7 @@ What each one does and what I owned. Stack is short here, full detail in each re
 
 Ongoing habits, rarely needs edits:
 
-- Adding documented projects to the portfolio as they finish
+- Working on new projects adding them to the portfolio as they finish
 - Keeping evaluations honest and READMEs runnable
 - Maintaining the course site for real users
 
